@@ -1,0 +1,11 @@
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp2.1\TrianguloPascal.deps.json
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp2.1\TrianguloPascal.runtimeconfig.json
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp2.1\TrianguloPascal.runtimeconfig.dev.json
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp2.1\TrianguloPascal.dll
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\bin\Debug\netcoreapp2.1\TrianguloPascal.pdb
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp2.1\TrianguloPascal.csproj.CoreCompileInputs.cache
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp2.1\TrianguloPascal.AssemblyInfoInputs.cache
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp2.1\TrianguloPascal.AssemblyInfo.cs
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp2.1\TrianguloPascal.dll
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp2.1\TrianguloPascal.pdb
+C:\Users\dipdn\source\repos\TrianguloPascal\TrianguloPascal\obj\Debug\netcoreapp2.1\TrianguloPascal.csprojAssemblyReference.cache
