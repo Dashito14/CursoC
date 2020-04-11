@@ -1,0 +1,11 @@
+C:\Users\dipdn\source\repos\CursoC\CursoC\bin\Debug\netcoreapp2.1\CursoC.deps.json
+C:\Users\dipdn\source\repos\CursoC\CursoC\bin\Debug\netcoreapp2.1\CursoC.runtimeconfig.json
+C:\Users\dipdn\source\repos\CursoC\CursoC\bin\Debug\netcoreapp2.1\CursoC.runtimeconfig.dev.json
+C:\Users\dipdn\source\repos\CursoC\CursoC\bin\Debug\netcoreapp2.1\CursoC.dll
+C:\Users\dipdn\source\repos\CursoC\CursoC\bin\Debug\netcoreapp2.1\CursoC.pdb
+C:\Users\dipdn\source\repos\CursoC\CursoC\obj\Debug\netcoreapp2.1\CursoC.csprojAssemblyReference.cache
+C:\Users\dipdn\source\repos\CursoC\CursoC\obj\Debug\netcoreapp2.1\CursoC.csproj.CoreCompileInputs.cache
+C:\Users\dipdn\source\repos\CursoC\CursoC\obj\Debug\netcoreapp2.1\CursoC.AssemblyInfoInputs.cache
+C:\Users\dipdn\source\repos\CursoC\CursoC\obj\Debug\netcoreapp2.1\CursoC.AssemblyInfo.cs
+C:\Users\dipdn\source\repos\CursoC\CursoC\obj\Debug\netcoreapp2.1\CursoC.dll
+C:\Users\dipdn\source\repos\CursoC\CursoC\obj\Debug\netcoreapp2.1\CursoC.pdb
